@@ -18,4 +18,5 @@ This project required me to:
 
 ### Credits
 https://docs.github.com/en/repositories
+https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 
