@@ -5,7 +5,12 @@ April 9, 2023
 Post Your Work on GitHub
 
 ### Description
-This project required me to create a GitHub repository, create and work on a repo for my Python BikeShare project, making multiple branches, making edits to files on those branches, and then committing the changes to my remote repository.
+This project required me to:
+1. Create a GitHub repository
+2. Create and work on a repo for my Python BikeShare project
+3. Creating multiple branches
+4. Making edits to files on those branches
+5. Committing the changes to my remote repository.
 
 ### Files used
 1. Git Commands Documentation: shows the required git commands to complete this project.
